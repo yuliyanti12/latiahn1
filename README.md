@@ -16,3 +16,4 @@ langkah-langkah menggunakan git
 	2. $ lab_pemprograman
 	3. $ cd latihan1
 	4. $ nano README.md
+#latihan2
